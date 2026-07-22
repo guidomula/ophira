@@ -1,0 +1,7 @@
+# OPHIRA runtime dependencies (Python 3.10+).
+# GUI toolkit: PyQt6 is preferred; the code falls back to PyQt5 automatically,
+# so `pip install PyQt5` instead of PyQt6 also works.
+PyQt6
+numpy
+scipy
+matplotlib
