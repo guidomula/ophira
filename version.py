@@ -28,12 +28,12 @@ COPYRIGHT        = f"Copyright {COPYRIGHT_YEAR} {COPYRIGHT_HOLDER}"
 LICENSE    = "PolyForm Noncommercial License 1.0.0"
 LICENSE_URL = "https://polyformproject.org/licenses/noncommercial/1.0.0"
 
-# Placeholder until a Zenodo release DOI is assigned. Example format:
-#   ZENODO_DOI = "10.5281/zenodo.1234567"
-ZENODO_DOI = None
+# Zenodo concept DOI (all versions — the one to cite). The specific
+# v1.0.0 archive is 10.5281/zenodo.21495780.
+ZENODO_DOI = "10.5281/zenodo.21495779"
 
-# Placeholder for the public GitHub repository URL.
-GITHUB_URL = None
+# Public GitHub repository URL.
+GITHUB_URL = "https://github.com/guidomula/ophira"
 
 APP_NAME      = "OPHIRA"
 APP_LONG_NAME = "Optical Thin Film Reflectance Analyzer"

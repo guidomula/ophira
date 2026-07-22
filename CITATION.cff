@@ -17,6 +17,5 @@ authors:
     email: "guido.mula@unica.it"
 license: PolyForm-Noncommercial-1.0.0
 # Rights holder (copyright): Università degli Studi di Cagliari — see the LICENSE file.
-# Fill in at release, once assigned (then uncomment):
-# repository-code: "https://github.com/<owner>/<repo>"
-# doi: "10.5281/zenodo.<record-id>"
+repository-code: "https://github.com/guidomula/ophira"
+doi: "10.5281/zenodo.21495779"   # concept DOI (all versions); v1.0.0 archive: 10.5281/zenodo.21495780
