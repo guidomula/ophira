@@ -7,7 +7,7 @@ abstract: >-
   (porous silicon and similar): it extracts thickness, refractive index n(λ),
   extinction coefficient k(λ), and uniaxial birefringence Δn(λ) from unpolarized
   reflectance, using a Fresnel/Airy model with Kramers–Kronig consistency checks.
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-06-18"
 authors:
   - family-names: "Mula"

@@ -12,7 +12,7 @@ Semantic version X.Y.Z:
   Z (patch) — bugfixes, refactors, UX improvements without new features
 """
 
-VERSION    = "1.0.0"
+VERSION    = "1.0.1"
 BUILD_DATE = "2026-06-18"
 
 AUTHOR     = "Guido Mula"
